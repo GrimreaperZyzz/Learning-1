@@ -58,22 +58,42 @@ A running log of things I'm learning as a [Modern Polymath](https://medium.com/a
 |[Coursera: Advanced Data Structures, RSA and Quantum Algorithms](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms)| |
 
 ## Biology
+### General Biology
+|Resource|Completed|
+|---|---|
+|[Coursera: Introduction to Biology: Ecology, Evolution, & Biodiversity Specialization](https://www.coursera.org/specializations/introduction-to-biology)| |
+
 ### Bioinformatics
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Finding Hidden Messages in DNA (Bioinformatics I)](https://www.coursera.org/learn/dna-analysis?specialization=bioinformatics)| |
+|[Coursera: Genome Sequencing (Bioinformatics II)](https://www.coursera.org/learn/genome-sequencing?specialization=bioinformatics)| |
+|[Coursera: Comparing Genes, Proteins, and Genomes (Bioinformatics III)](https://www.coursera.org/learn/comparing-genomes?specialization=bioinformatics)| |
+|[Coursera: Molecular Evolution (Bioinformatics IV)](https://www.coursera.org/learn/molecular-evolution?specialization=bioinformatics)| |
+|[Coursera: Genomic Data Science and Clustering (Bioinformatics V)](https://www.coursera.org/learn/genomic-data?specialization=bioinformatics)| |
+|[Coursera: Finding Mutations in DNA and Proteins (Bioinformatics VI)](https://www.coursera.org/learn/dna-mutations?specialization=bioinformatics)| |
+|[Coursera: Bioinformatics Capstone: Big Data in Biology](https://www.coursera.org/learn/bioinformatics-project?specialization=bioinformatics)| |
 
 ## Physics
-
+### Mechanics
 |Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+### Electricity and Magnetism
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
 
 ## Chemistry
 
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: General Chemistry: Concept Development and Application](https://www.coursera.org/learn/general-chemistry)| |
 
 # Other 
 
