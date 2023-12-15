@@ -1,6 +1,6 @@
 # Learning
 
-A running log of more things I'm learning as a [Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db).
+A running log of more things I'm learning as a [Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db).Science, History, Philosophy, etc
 
 |Resource|Completed|
 |---|---|
