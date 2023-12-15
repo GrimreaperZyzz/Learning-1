@@ -1,11 +1,12 @@
 # Learning
 
-A running log of things I'm learning.[Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db)
+A running log of things I'm learning as a[Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db).
 
 |Resource|Completed|
 |---|---|
 |Courses: |2|
-#Math and Sciences
+
+# Math and Sciences
 
 ## Mathematics
 
@@ -51,14 +52,6 @@ A running log of things I'm learning.[Modern Polymath](https://medium.com/accele
 |[Coursera: ]()| |
 |[Coursera: ]()| |
 
-## Other
-
-### Self-Improvement
-
-|Resource|Completed|
-|---|---|
-|[Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)|[Yes](https://coursera.org/share/c37615c59e6721fac0eeb6fcdcc2b663)|
-
 ## Biology
 ### Bioinformatics
 |Resource|Completed|
@@ -77,6 +70,14 @@ A running log of things I'm learning.[Modern Polymath](https://medium.com/accele
 |---|---|
 |[Coursera: ]()| |
 
+# Other 
+
+## Self-Improvement
+
+|Resource|Completed|
+|---|---|
+|[Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)|[Yes](https://coursera.org/share/c37615c59e6721fac0eeb6fcdcc2b663)|
+
 ## Business
 
 |Resource|Completed|
@@ -90,6 +91,12 @@ A running log of things I'm learning.[Modern Polymath](https://medium.com/accele
 |[Coursera: ]()| |
 
 ## Philosophy
+
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+
+## Psychology
 
 |Resource|Completed|
 |---|---|
