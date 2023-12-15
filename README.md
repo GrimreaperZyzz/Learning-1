@@ -1,10 +1,11 @@
 # Learning
 
-A running log of things I'm learning.
+A running log of things I'm learning.[Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db)
 
 |Resource|Completed|
 |---|---|
 |Courses: |2|
+#Math and Sciences
 
 ## Mathematics
 
@@ -77,6 +78,18 @@ A running log of things I'm learning.
 |[Coursera: ]()| |
 
 ## Business
+
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+
+## Economics
+
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+
+## Philosophy
 
 |Resource|Completed|
 |---|---|
