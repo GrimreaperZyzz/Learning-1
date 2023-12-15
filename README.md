@@ -18,13 +18,13 @@ A running log of things I'm learning.
 
 |Resource|Completed|
 |---|---|
-|[Coursera: Introduction to Python Fundamentals]()|[Yes](https://coursera.org/share/33a128dd2096f7f1bd294421e44a4185)|
-|[Coursera: Introduction to Python Functions]()| |
+|[Coursera: Introduction to Python Fundamentals](https://www.coursera.org/learn/introduction-python-fundamentals)|[Yes](https://coursera.org/share/33a128dd2096f7f1bd294421e44a4185)|
+|[Coursera: Introduction to Python Functions](https://www.coursera.org/learn/introduction-python-functions)| |
 ### Python Packages
-### Numpy,Pandas,
+### Numpy,Pandas,Matplotlib,Seaborn
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Python Packages for Data Science](https://www.coursera.org/learn/python-packages-data-science)| |
 
 
 ### Data Structures and Algorithms
