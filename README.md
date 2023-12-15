@@ -6,7 +6,7 @@ A running log of things I'm learning as a [Modern Polymath](https://medium.com/a
 |---|---|
 |Courses: |2|
 
-# Math and Sciences
+# Math and Computer Science
 
 ## Mathematics
 
@@ -57,12 +57,7 @@ A running log of things I'm learning as a [Modern Polymath](https://medium.com/a
 |[Coursera: Approximation Algorithms and Linear Programming](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms)| |
 |[Coursera: Advanced Data Structures, RSA and Quantum Algorithms](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms)| |
 
-## Biology
-### General Biology
-|Resource|Completed|
-|---|---|
-|[Coursera: Introduction to Biology: Ecology, Evolution, & Biodiversity Specialization](https://www.coursera.org/specializations/introduction-to-biology)| |
-
+## Computational Biology
 ### Bioinformatics
 |Resource|Completed|
 |---|---|
