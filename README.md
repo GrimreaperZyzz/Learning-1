@@ -43,4 +43,4 @@ A running log of things I'm learning.
 
 |Resource|Completed|
 |---|---|
-|[Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)|https://coursera.org/share/c37615c59e6721fac0eeb6fcdcc2b663|
+|[Coursera: Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)|[Yes](https://coursera.org/share/c37615c59e6721fac0eeb6fcdcc2b663)|
