@@ -2,13 +2,13 @@
 
 A running log of things I'm learning.
 
-|Resource|Progress|
+|Resource|Completed|
 |---|---|
 |Courses: |2|
 
 ## Mathematics
 
-|Resource|Progress|
+|Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
 
@@ -16,19 +16,19 @@ A running log of things I'm learning.
 
 ### Python Programming
 
-|Resource|Progress|
+|Resource|Completed|
 |---|---|
-|[Coursera: Introduction to Python Fundamentals](https://coursera.org/share/33a128dd2096f7f1bd294421e44a4185)|✓|
+|[Coursera: Introduction to Python Fundamentals](https://coursera.org/share/33a128dd2096f7f1bd294421e44a4185)|https://coursera.org/share/c37615c59e6721fac0eeb6fcdcc2b663|
 |[Coursera: Introduction to Python Functions]()| |
 ### Python Packages
-|Resource|Progress|
+|Resource|Completed|
 |---|---|
 |[Coursera: Introduction to Python Functions]()| |
 
 
 ### Data Structures and Algorithms
 
-|Resource|Progress|
+|Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
 
@@ -36,6 +36,6 @@ A running log of things I'm learning.
 
 ### Self-Improvement
 
-|Resource|Progress|
+|Resource|Completed|
 |---|---|
 |[Coursera:Learning How to Learn: Powerful mental tools to help you master tough subjects]
