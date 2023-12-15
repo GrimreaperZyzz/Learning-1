@@ -1,6 +1,6 @@
 # Learning
 
-A learning log of Math and Computer Science courses as a [Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db).
+A learning log of Math and Computer Science courses as a [Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db). See [Other Courses](https://github.com/PrincetonLeong/Learning/blob/main/OtherCourses.md) for more courses that I'm learning, other than Math and Computer Science.
 
 |Resource|Completed|
 |---|---|
