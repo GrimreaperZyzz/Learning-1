@@ -1,3 +1,11 @@
+# Learning
+
+A running log of more things I'm learning as a [Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db).
+
+|Resource|Completed|
+|---|---|
+|Other Courses: |1|
+
 # Sciences
 ## Physics
 ### Mechanics
