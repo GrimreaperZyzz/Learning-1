@@ -47,11 +47,11 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
-|[Coursera: ]()| |
-|[Coursera: ]()| |
-|[Coursera: ]()| |
-|[Coursera: ]()| |
+|[Coursera: Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing)| |
+|[Coursera: Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics)| |
+|[Coursera: Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms)| |
+|[Coursera: Approximation Algorithms and Linear Programming](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms)| |
+|[Coursera: Advanced Data Structures, RSA and Quantum Algorithms](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms)| |
 
 ## Biology
 ### Bioinformatics
