@@ -26,7 +26,11 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 ### Discrete Mathematics
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)| |
+|[Coursera: Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)| |
+|[Coursera: Introduction to Graph Theory]()| |
+|[Coursera: Number Theory and Cryptography]()| |
+|[Coursera: Delivery Problem]()| |
 
 ## Computer Science
 
