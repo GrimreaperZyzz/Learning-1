@@ -18,7 +18,13 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Coursera:Introduction to Python Fundamentals](https://coursera.org/share/33a128dd2096f7f1bd294421e44a4185)|✓|
+|[Coursera: Introduction to Python Fundamentals](https://coursera.org/share/33a128dd2096f7f1bd294421e44a4185)|✓|
+|[Coursera: Introduction to Python Functions]()| |
+### Python Packages
+|Resource|Progress|
+|---|---|
+|[Coursera: Introduction to Python Functions]()| |
+
 
 ### Data Structures and Algorithms
 
