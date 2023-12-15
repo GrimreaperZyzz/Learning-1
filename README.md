@@ -1,6 +1,6 @@
 # Learning
 
-A running log of things I'm learning as a[Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db).
+A running log of things I'm learning as a [Modern Polymath](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db).
 
 |Resource|Completed|
 |---|---|
@@ -105,7 +105,7 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)| |
 
 ## History
 
@@ -123,4 +123,4 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 ## Chinese
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Chinese for HSK 1](https://www.coursera.org/learn/hsk-1/home/welcome)| |
