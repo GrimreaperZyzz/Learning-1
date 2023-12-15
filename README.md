@@ -28,9 +28,9 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 |---|---|
 |[Coursera: Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)| |
 |[Coursera: Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)| |
-|[Coursera: Introduction to Graph Theory]()| |
-|[Coursera: Number Theory and Cryptography]()| |
-|[Coursera: Delivery Problem]()| |
+|[Coursera: Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics)| |
+|[Coursera: Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)| |
+|[Coursera: Delivery Problem](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics)| |
 
 ## Computer Science
 
@@ -99,7 +99,7 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Introduction to Philosophy](https://www.coursera.org/learn/philosophy)| |
 
 ## Psychology
 
@@ -111,7 +111,13 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: The Modern World, Part One: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world)| |
+|[Coursera: The Modern World, Part Two: Global History from 1760 to 1910](https://www.coursera.org/learn/modern-world-2)| |
+
+## Politics
+|Resource|Completed|
+|---|---|
+|[Coursera: Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics)| |
 
 # Languages
 ## Chinese
