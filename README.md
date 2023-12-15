@@ -4,7 +4,7 @@ A running log of things I'm learning as a [Modern Polymath](https://medium.com/a
 
 |Resource|Completed|
 |---|---|
-|Courses: |2|
+|Math and Computer Science Courses: |1|
 
 # Math and Computer Science
 
@@ -14,15 +14,18 @@ A running log of things I'm learning as a [Modern Polymath](https://medium.com/a
 |Resource|Completed|
 |---|---|
 |[Coursera: Essential Linear Algebra for Data Science](https://www.coursera.org/learn/essential-linear-algebra-for-data-science)| |
+
 ### Calculus
 |Resource|Completed|
 |---|---|
 |[Coursera: Algebra and Differential Calculus for Data Science](https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science)| |
 |[Coursera: Integral Calculus and Numerical Analysis for Data Science](https://www.coursera.org/learn/integral-calculus-and-numerical-analysis-for-data-science)| |
+
 ### Probability and Statistics
 |Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
+
 ### Discrete Mathematics
 |Resource|Completed|
 |---|---|
@@ -35,7 +38,6 @@ A running log of things I'm learning as a [Modern Polymath](https://medium.com/a
 ## Computer Science
 
 ### Python Programming
-
 |Resource|Completed|
 |---|---|
 |[Coursera: Introduction to Python Fundamentals](https://www.coursera.org/learn/introduction-python-fundamentals)|[Yes](https://coursera.org/share/33a128dd2096f7f1bd294421e44a4185)|
@@ -46,9 +48,7 @@ A running log of things I'm learning as a [Modern Polymath](https://medium.com/a
 |---|---|
 |[Coursera: Python Packages for Data Science](https://www.coursera.org/learn/python-packages-data-science)| |
 
-
 ### Data Structures and Algorithms
-
 |Resource|Completed|
 |---|---|
 |[Coursera: Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing)| |
