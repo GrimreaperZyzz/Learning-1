@@ -69,9 +69,3 @@ A running log of things I'm learning as a [Modern Polymath](https://medium.com/a
 |[Coursera: Finding Mutations in DNA and Proteins (Bioinformatics VI)](https://www.coursera.org/learn/dna-mutations?specialization=bioinformatics)| |
 |[Coursera: Bioinformatics Capstone: Big Data in Biology](https://www.coursera.org/learn/bioinformatics-project?specialization=bioinformatics)| |
 
-
-# Languages
-## Chinese
-|Resource|Completed|
-|---|---|
-|[Coursera: Chinese for HSK 1](https://www.coursera.org/learn/hsk-1/home/welcome)| |
