@@ -19,6 +19,11 @@
 |---|---|
 |[Coursera: General Chemistry: Concept Development and Application](https://www.coursera.org/learn/general-chemistry)| |
 
+## Biology
+### General Biology
+|Resource|Completed|
+|---|---|
+|[Coursera: Introduction to Biology: Ecology, Evolution, & Biodiversity Specialization](https://www.coursera.org/specializations/introduction-to-biology)| |
 # Other 
 
 ## Self-Improvement
