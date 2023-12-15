@@ -13,11 +13,12 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 ### Linear Algebra
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Essential Linear Algebra for Data Science](https://www.coursera.org/learn/essential-linear-algebra-for-data-science)| |
 ### Calculus
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Algebra and Differential Calculus for Data Science](https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science)| |
+|[Coursera: Integral Calculus and Numerical Analysis for Data Science](https://www.coursera.org/learn/integral-calculus-and-numerical-analysis-for-data-science)| |
 ### Probability and Statistics
 |Resource|Completed|
 |---|---|
@@ -98,6 +99,18 @@ A running log of things I'm learning as a[Modern Polymath](https://medium.com/ac
 
 ## Psychology
 
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+
+## History
+
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+
+# Languages
+## Chinese
 |Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
