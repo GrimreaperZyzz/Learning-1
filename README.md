@@ -40,7 +40,10 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 ### Probability and Statistics
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
+|[Coursera: Mathematical Biostatistics Boot Camp 1]()| |
+|[Coursera: Mathematical Biostatistics Boot Camp 2]()| |
+|[Coursera: Advanced Linear Models for Data Science 1: Least Squares]()| |
+|[Coursera: Advanced Linear Models for Data Science 2: Statistical Linear Models]()| |
 
 ### Discrete Mathematics
 |Resource|Completed|
@@ -112,6 +115,8 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Software Architecture Patterns for Big Data]()| |
 |[Coursera: Applications of Software Architecture for Big Data]()| |
 
+
+
 ## AI
 ### Machine Learning
 |Resource|Completed|
@@ -149,4 +154,4 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 ### Computational Neuroscience
 |Resource|Completed|
 |---|---|
-|[Coursera: ](https://www.coursera.org/learn/computational-neuroscience)| |
+|[Coursera: Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| |
