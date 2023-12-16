@@ -144,3 +144,4 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
   |Resource|Completed|
   |---|---|
   |[Coursera: Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| |
+Fuck you
