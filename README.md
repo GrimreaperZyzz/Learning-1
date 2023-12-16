@@ -10,6 +10,22 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 
 ## Mathematics
 
+### Algebra
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
+### Precalculus
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
 ### Linear Algebra
 |Resource|Completed|
 |---|---|
@@ -57,6 +73,38 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Approximation Algorithms and Linear Programming](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms)| |
 |[Coursera: Advanced Data Structures, RSA and Quantum Algorithms](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms)| |
 
+### Java Programminng
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
+### Kotlin Programminng
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
+### R Programminng
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
+### Julia Programminng
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
 ### Software Architecture for Big Data
 |Resource|Completed|
 |---|---|
@@ -99,4 +147,4 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Genomic Data Science and Clustering (Bioinformatics V)](https://www.coursera.org/learn/genomic-data?specialization=bioinformatics)| |
 |[Coursera: Finding Mutations in DNA and Proteins (Bioinformatics VI)](https://www.coursera.org/learn/dna-mutations?specialization=bioinformatics)| |
 |[Coursera: Bioinformatics Capstone: Big Data in Biology](https://www.coursera.org/learn/bioinformatics-project?specialization=bioinformatics)| |
-
+### Computational Neuroscience
