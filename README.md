@@ -104,6 +104,9 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
   |[Coursera: Software Architecture Patterns for Big Data]()| |
   |[Coursera: Applications of Software Architecture for Big Data]()| |
   
+  ## Web Development
+### HTML, CSS, JS
+
   ## AI
 ### Machine Learning
   |Resource|Completed|
