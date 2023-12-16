@@ -57,6 +57,13 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Approximation Algorithms and Linear Programming](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms)| |
 |[Coursera: Advanced Data Structures, RSA and Quantum Algorithms](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms)| |
 
+### Software Architecture for Big Data
+|Resource|Completed|
+|---|---|
+|[Coursera: Fundamentals of Software Architecture for Big Data]()| |
+|[Coursera: Software Architecture Patterns for Big Data]()| |
+|[Coursera: Applications of Software Architecture for Big Data]()| |
+
 ## Computational Biology
 ### Bioinformatics
 |Resource|Completed|
