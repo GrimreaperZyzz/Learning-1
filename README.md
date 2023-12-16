@@ -64,6 +64,30 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Software Architecture Patterns for Big Data]()| |
 |[Coursera: Applications of Software Architecture for Big Data]()| |
 
+### Machine Learning
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
+### Deep Learning
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
+### Natural Language Processing
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+
 ## Computational Biology
 ### Bioinformatics
 |Resource|Completed|
