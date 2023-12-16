@@ -8,7 +8,7 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 
 # Math and Computer Science
 
-## Mathematics
+# Mathematics
 
 ### Algebra
 |Resource|Completed|
@@ -51,8 +51,8 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)| |
 |[Coursera: Delivery Problem](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics)| |
 
-## Computer Science
-
+# Computer Science
+## Programming Languages
 ### Python Programming
 |Resource|Completed|
 |---|---|
@@ -112,6 +112,7 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Software Architecture Patterns for Big Data]()| |
 |[Coursera: Applications of Software Architecture for Big Data]()| |
 
+## AI
 ### Machine Learning
 |Resource|Completed|
 |---|---|
@@ -119,7 +120,6 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: ]()| |
 |[Coursera: ]()| |
 |[Coursera: ]()| |
-
 ### Deep Learning
 |Resource|Completed|
 |---|---|
@@ -127,11 +127,9 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: ]()| |
 |[Coursera: ]()| |
 |[Coursera: ]()| |
-
 ### Natural Language Processing
 |Resource|Completed|
 |---|---|
-|[Coursera: ]()| |
 |[Coursera: ]()| |
 |[Coursera: ]()| |
 |[Coursera: ]()| |
@@ -147,4 +145,8 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Genomic Data Science and Clustering (Bioinformatics V)](https://www.coursera.org/learn/genomic-data?specialization=bioinformatics)| |
 |[Coursera: Finding Mutations in DNA and Proteins (Bioinformatics VI)](https://www.coursera.org/learn/dna-mutations?specialization=bioinformatics)| |
 |[Coursera: Bioinformatics Capstone: Big Data in Biology](https://www.coursera.org/learn/bioinformatics-project?specialization=bioinformatics)| |
+
 ### Computational Neuroscience
+|Resource|Completed|
+|---|---|
+|[Coursera: ](https://www.coursera.org/learn/computational-neuroscience)| |
