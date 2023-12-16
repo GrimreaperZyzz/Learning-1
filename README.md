@@ -10,12 +10,12 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 
 # Mathematics
 ### Algebra
-  |Resource|Completed|
-  |---|---|
-  |[Coursera: ]()| |
-  |[Coursera: ]()| |
-  |[Coursera: ]()| |
-  |[Coursera: ]()| |
+|Resource|Completed|
+|---|---|
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+|[Coursera: ]()| |
+[Coursera: ]()| |
 ### Precalculus
   |Resource|Completed|
   |---|---|
