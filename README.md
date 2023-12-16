@@ -73,7 +73,7 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: Approximation Algorithms and Linear Programming](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms)| |
 |[Coursera: Advanced Data Structures, RSA and Quantum Algorithms](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms)| |
 
-### Java Programminng
+### Java Programming
 |Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
@@ -81,7 +81,7 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: ]()| |
 |[Coursera: ]()| |
 
-### Kotlin Programminng
+### Kotlin Programming
 |Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
@@ -89,7 +89,7 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: ]()| |
 |[Coursera: ]()| |
 
-### R Programminng
+### R Programming
 |Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
@@ -97,7 +97,7 @@ A learning log of Math and Computer Science courses as a [Modern Polymath](https
 |[Coursera: ]()| |
 |[Coursera: ]()| |
 
-### Julia Programminng
+### Julia Programming
 |Resource|Completed|
 |---|---|
 |[Coursera: ]()| |
